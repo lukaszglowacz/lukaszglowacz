@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lucka 👋</h1>
+<h1 align="center">Hi, I'm Łukasz 👋</h1>
 
 <p align="center">
   <strong>Full-Stack Developer</strong> specializing in 
