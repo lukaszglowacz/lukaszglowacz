@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Łukasz 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> specializing in 
+  <strong>Software Developer</strong> specializing in 
   <strong>Django REST Framework</strong>, <strong>React + TypeScript</strong>, 
   and <strong>SaaS architectures</strong>.
 </p>
